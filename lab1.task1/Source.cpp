@@ -21,6 +21,7 @@ void func_A(float x, float y, float z,int bi) {
 	a5 = a2 / a3;
 	a = a1 + a5 / a4;
 	cout << "Function A: " << a << endl;
+	cout << "Example: " << endl;
 }
 
 int main() {
